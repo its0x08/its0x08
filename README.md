@@ -4,3 +4,5 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/its0x08?label=follow&style=social)](https://github.com/its0x08)
 
 ![0x08's github stats](https://github-readme-stats.vercel.app/api?username=its0x08&theme=github_dark&show_icons=true&hide_border=true)
+
+[![paypal](https://golftoursderllysboys.files.wordpress.com/2020/08/button-donate-paypal-1.png)](https://www.paypal.com/paypalme/begaj)
