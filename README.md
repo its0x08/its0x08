@@ -9,7 +9,7 @@ In love with Open Source and I try to contribute more every day.
 
 __BSc__ -> *Informatics and information technology*
 
-__MSc__ -> *Robotics and industrial automation*
+__MSc__ -> *Artificial intelligence and robotics*
 
 Contact me if you have a job offer for me or need help with something. 🙏🏻
 
