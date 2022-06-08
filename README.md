@@ -1,4 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kristi. 
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Kristi. 
 I'm a software engineer from 🇦🇱Albania. I mostly write 🐍Python, 📜Javascript/Nodejs/Reactjs, 
 
 🐚Bash and 📊MySQL/SQLite, but not limited to. Also, I play 🏁CTFs occasionally,
