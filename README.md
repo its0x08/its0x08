@@ -20,4 +20,4 @@ Contact me if you have a job offer for me or need help with something. 🙏🏻
 
 ![0x08's github stats](https://github-readme-stats.vercel.app/api?username=its0x08&theme=github_dark&show_icons=true&hide_border=true)
 
-[![paypal](https://golftoursderllysboys.files.wordpress.com/2020/08/button-donate-paypal-1.png)](https://www.paypal.com/paypalme/begaj)
+[![paypal](https://golftoursderllysboys.files.wordpress.com/2020/08/button-donate-paypal-1.png)](https://paypal.me/KristBegaj)
