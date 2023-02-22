@@ -1,15 +1,14 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Kristi. 
-I'm a software engineer from 🇦🇱Albania. I mostly write 🐍Python, 📜Javascript/Nodejs/Reactjs, 
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> 
+I am a software engineer with a passion for technology and a love for open source. I write code primarily in 🐍 Python, 📜 Javascript/Nodejs/Reactjs, 🐚 Bash, and 📊 MySQL/SQLite, but I'm always willing to learn and try new things.
 
-🐚Bash and 📊MySQL/SQLite, but not limited to. Also, I play 🏁CTFs occasionally,
+In addition to software engineering, I am also a cybersecurity researcher and DevOps engineer. I have experience in managing and securing systems in both on-premises and cloud environments.
 
-and do Bug Bounties from time to time.
+In my free time, you can find me participating in CTFs or trying my hand at Bug Bounties. I'm always looking for ways to improve my skills and contribute more to the open source community.
 
-In love with Open Source and I try to contribute more every day. 
 
-__BSc__ -> *Informatics and information technology*
 
-__MSc__ -> *Artificial intelligence and robotics*
+- 🎓 Bachelor's degree in Informatics and Information Technology
+- 🎓 Master's degree in Artificial Intelligence and Robotics
 
 Contact me if you have a job offer for me or need help with something. 🙏🏻
 
