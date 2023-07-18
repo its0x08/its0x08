@@ -10,7 +10,6 @@ In my free time, you can find me participating in CTFs or trying my hand at Bug 
 - 🎓 Bachelor's degree in Informatics and Information Technology
 - 🎓 Master's degree in Artificial Intelligence and Robotics
 
-Contact me if you have a job offer for me or need help with something. 🙏🏻
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=its0x08&countColor=%232ccce4&style=flat-square)
 [![Twitter: BegajKristi](https://img.shields.io/twitter/follow/BegajKristi?style=social)](https://twitter.com/BegajKristi)
